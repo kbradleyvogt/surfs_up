@@ -2,6 +2,9 @@
 In order to determine if an ice cream and surf shop is a sustainable business year rount on the island of Oahu, we will do a statistical review for the tempature during June and December. 
 
 # Results 
+![June Temps ](https://user-images.githubusercontent.com/86968320/142735575-4c62cd08-61e8-4da7-9af4-ca159871423b.png)
+![Dec Temps](https://user-images.githubusercontent.com/86968320/142735585-919cb055-5439-4c51-938f-fd99fb2a995a.png)
+
 
 - Average tempatures in June are 75 degress and December are 71 degress.
 - The lows for for December is 56 degress and June's high is 85 degress, which is nearly a 30 degree range during the year to be prepared for. 
